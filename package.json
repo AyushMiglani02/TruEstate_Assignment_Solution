@@ -1,0 +1,15 @@
+{
+  "name": "true_estate_assignment_solution",
+  "version": "1.0.0",
+  "description": "A production-grade full-stack application for managing retail sales data with advanced search, filtering, sorting, and pagination capabilities.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

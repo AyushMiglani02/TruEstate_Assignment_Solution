@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+backend/.env
+.env.local
+.env.development
+.env.production
+
+# Documentation to exclude
+docs/
+MONGODB_MIGRATION.md
+ENV_VARIABLES.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Temporary files
+*.tmp
+.cache/
+
+# CSV data file (too large for git)
+*.csv
+
+# Agent tools
+agent-tools/
+
